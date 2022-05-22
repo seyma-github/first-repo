@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(173, 179, 222);
+    color: pink;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+}
+h2{
+    color: blueviolet;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+h3{
+    color: rgb(60, 128, 0);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+ol>li>a{
+    color: greenyellow;
+}
+
+
